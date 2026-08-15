@@ -1,5 +1,5 @@
 # Asterline Homebrew Tap
 
-\`\`\`bash
+```bash
 brew install song0705/asterline/asterline
-\`\`\`
+```
