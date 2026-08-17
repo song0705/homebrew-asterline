@@ -5,25 +5,25 @@ class Asterline < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/song0705/Asterline/releases/download/v1.0.3/asterline-1.0.3-aarch64-apple-darwin.tar.gz"
-      sha256 "d435c14a30cb9d7a48987793745bb8ccd7a80a25fecacaf8e367cea375f816f7"
+      url "https://github.com/song0705/Asterline/releases/download/v1.0.4/asterline-1.0.4-aarch64-apple-darwin.tar.gz"
+      sha256 "e80ee0002b495d36afdc7f4cc03cd121ad4ce01e644858fdb18252f76dbee04f"
     end
 
     on_intel do
-      url "https://github.com/song0705/Asterline/releases/download/v1.0.3/asterline-1.0.3-x86_64-apple-darwin.tar.gz"
-      sha256 "37d341b3a32c591a2af1623d2d58ef706e506a990522015de038cb12c5331a89"
+      url "https://github.com/song0705/Asterline/releases/download/v1.0.4/asterline-1.0.4-x86_64-apple-darwin.tar.gz"
+      sha256 "bb5cab85d54f8e5f20578b751ddabd8ca38c5b3310877c7b35254033b719af6e"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/song0705/Asterline/releases/download/v1.0.3/asterline-v1.0.3-Linux-arm64.tar.gz"
-      sha256 "f105db4eb6eda217d26496037163713bbd6ccc90a97b36fc556763b05c7b0954"
+      url "https://github.com/song0705/Asterline/releases/download/v1.0.4/asterline-v1.0.4-Linux-arm64.tar.gz"
+      sha256 "f6df0075a9dcec683c68f24b00fd97a663e0ea7e3c613becb4e4db4ebc48fca1"
     end
 
     on_intel do
-      url "https://github.com/song0705/Asterline/releases/download/v1.0.3/asterline-v1.0.3-Linux-x86_64.tar.gz"
-      sha256 "4f8d89ecdfab9e7b9cb65705c51729485c972e9974bfee254883e91a87f7ff96"
+      url "https://github.com/song0705/Asterline/releases/download/v1.0.4/asterline-v1.0.4-Linux-x86_64.tar.gz"
+      sha256 "ff344d777fc1acc1ec484b2ca941a6f26ae2bfe854a37e3735ff06a6cdb63129"
     end
   end
 
